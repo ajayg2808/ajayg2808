@@ -1,4 +1,4 @@
-# Hi there 👋 it's me **Ajay Gaikwad**
+# Hi there 👋 it's me `**Ajay Gaikwad**`
 
 </br>
 </br>
